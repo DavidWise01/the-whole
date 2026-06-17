@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Oceanic Feeling",
+  "universe": "WHL · The Oceanic Feeling (ERĒMIA · the whole)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Oceanic Feeling:WHL:040d94⟧",
+  "carbon": "the-oceanic-feeling.carbon.tiff (TIFF)",
+  "silicon": "the-oceanic-feeling.silicon.png (PNG)",
+  "seal_sha256": "13b5f7fe02792a5842281cf1137fb9385ce413e5af8b03aa2c6c611630396d34",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

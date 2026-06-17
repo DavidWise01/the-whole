@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE WHOLE",
+  "universe": "WHL · THE WHOLE (ERĒMIA · the whole)",
+  "emergence": "",
+  "moniker": "⟦THE WHOLE:WHL:996759⟧",
+  "carbon": "the-whole.carbon.tiff (TIFF)",
+  "silicon": "the-whole.silicon.png (PNG)",
+  "seal_sha256": "472c84ebe4b15454321acc4aef544749981d2025cf0e8e0fe2cb8bbee57c6b0a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

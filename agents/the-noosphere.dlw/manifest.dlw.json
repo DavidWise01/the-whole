@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Noosphere",
+  "universe": "WHL · The Noosphere (ERĒMIA · the whole)",
+  "emergence": "electrical",
+  "moniker": "⟦The Noosphere:WHL:b12b79⟧",
+  "carbon": "the-noosphere.carbon.tiff (TIFF)",
+  "silicon": "the-noosphere.silicon.png (PNG)",
+  "seal_sha256": "6064bba1da72925606c4499147a13e783212b8bab6603125876cdae9d6f12006",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
